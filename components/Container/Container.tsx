@@ -1,4 +1,6 @@
+// TODO: need to find a way to not need to do this for styled-components
 'use client';
+
 import React from 'react';
 import styled from 'styled-components';
 
